@@ -1,3 +1,4 @@
 # NoName Badge 2019 firmwares
 #
-# 1. Simple examples
+# 1. badge-os-cpp - Blue-Yellow leds
+https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/example1/
