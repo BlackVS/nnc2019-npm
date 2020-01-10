@@ -1,3 +1,0 @@
-Simple LEDs and sprite example
-https://gitlab.com/badge-os/badge-os-cpp
-VVS
