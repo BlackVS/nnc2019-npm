@@ -1,0 +1,7 @@
+NAME: 		leds2
+TITLE: 		MPU+LEDs + OLED snowing
+AUTHOR: 	VVS
+VERSION: 	1.1
+DATE:		10.02.2020
+SOURCE: 	https://gitlab.com/badge-os/badge-os-cpp
+DESCRIPTION: 	Data from MPU translated to RGB
