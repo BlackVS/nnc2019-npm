@@ -1,5 +1,5 @@
 NAME: 		BadgeOS
-TITLE: 		All-the-stuff is here %)
+TITLE: 		Official Techmaker firmware from NNC2019
 AUTHOR: 	Techmaker
 VERSION: 	1.95
 DATE:		xx.yy.zzzz
