@@ -1,0 +1,7 @@
+NAME: 		BadgeOS public
+TITLE: 		Official Techmaker public firmware for badge NNC2019
+AUTHOR: 	Techmaker+VVS
+VERSION: 	1.95
+DATE:		11.01.2020
+SOURCE: 	https://gitlab.com/badge-os/nnc-badge-2019
+DESCRIPTION: 	Official Badge firmware from NNC 2019 + NPM
