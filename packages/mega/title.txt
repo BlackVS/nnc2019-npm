@@ -1,4 +1,4 @@
-NAME: 		Mega - current build
+NAME: 		Mega
 TITLE: 		All-the-stuff is here %)
 AUTHOR: 	VVS
 VERSION: 	3.1
