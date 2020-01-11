@@ -6,4 +6,4 @@
 https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/example1/
 https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/example2/
 https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/pmon1/
-https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/current/
+https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/mega/
