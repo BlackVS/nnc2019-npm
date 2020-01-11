@@ -3,6 +3,7 @@
 # 1. One line - one packet
 # 2. Packet = url to folder of special structure
 # 3. Lines starting # ignored
+https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/badgeos/
 https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/example1/
 https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/example2/
 https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/pmon1/
