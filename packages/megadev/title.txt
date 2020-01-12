@@ -1,5 +1,5 @@
 NAME: 		Mega (dev)
-TITLE: 		Last build of Mega
+TITLE: 		Latest build of Mega
 AUTHOR: 	VVS
 VERSION: 	3.0.a
 DATE:		12.02.2020
