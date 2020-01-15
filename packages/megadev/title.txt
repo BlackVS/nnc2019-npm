@@ -1,7 +1,7 @@
 NAME: 		Mega (dev)
 TITLE: 		Latest build of Mega
 AUTHOR: 	VVS
-VERSION: 	3.0.a
+VERSION: 	3.1.a
 DATE:		15.02.2020
 SOURCE: 	not public
 DESCRIPTION: 	Radar included
