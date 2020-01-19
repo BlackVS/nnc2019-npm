@@ -1,7 +1,7 @@
 NAME: 		pmon1
 TITLE: 		Simple packet monitor with deauth detector
 AUTHOR: 	VVS
-VERSION: 	1.1
-DATE:		11.02.2020
+VERSION: 	3.1.a
+DATE:		19.02.2020
 SOURCE: 	https://gitlab.com/badge-os/nnc-badge-pmon
 DESCRIPTION: 	To switch channels press sensor key.

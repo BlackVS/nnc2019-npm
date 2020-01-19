@@ -10,5 +10,6 @@ https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/example2/
 https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/pmon1/
 https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/mega/
 https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/megadev/
+https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/megadet/
 https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/asteroids/
 

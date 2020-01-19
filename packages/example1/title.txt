@@ -1,7 +1,7 @@
 NAME: 		leds1
 TITLE: 		Rotating LEDs + simple sprite
 AUTHOR: 	VVS
-VERSION: 	1.1
-DATE:		10.02.2020
+VERSION: 	1.2
+DATE:		19.02.2020
 SOURCE: 	https://gitlab.com/badge-os/badge-os-cpp
 DESCRIPTION: 	To switch LEDs push long sensor key
