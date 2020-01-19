@@ -1,0 +1,7 @@
+NAME: 		Asteroids
+TITLE: 		Asteroids game
+AUTHOR: 	Anton Sylantiev
+VERSION: 	1
+DATE:		19.01.2020
+SOURCE: 	https://gitlab.com/unl1m/nnc-badge
+DESCRIPTION: 	BadgeOS based Astreoids game
