@@ -3,13 +3,13 @@
 # 1. One line - one packet
 # 2. Packet = url to folder of special structure
 # 3. Lines starting # ignored
-https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/badgeos/
-https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/badgepublic/
-https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/example1/
-https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/example2/
-https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/pmon1/
-https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/mega/
-https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/megadev/
-https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/megadet/
-https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/asteroids/
-https://gitlab.com/badge-os/nnc2019-npm/raw/master/packages/corona/
+https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/badgeos/
+https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/badgepublic/
+https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/example1/
+https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/example2/
+https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/pmon1/
+https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/mega/
+https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/megadev/
+https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/megadet/
+https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/asteroids/
+https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/corona/
