@@ -1,0 +1,7 @@
+NAME: 		Corona
+TITLE: 		Corona Fighter game
+AUTHOR: 	VVS
+VERSION: 	1
+DATE:		08.05.2020
+SOURCE: 	https://gitlab.com/badge-os/badge-os-cpp
+DESCRIPTION: 	BadgeOS based Corona Fighter game
