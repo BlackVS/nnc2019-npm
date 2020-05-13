@@ -3,7 +3,9 @@
 # 1. One line - one packet
 # 2. Packet = url to folder of special structure
 # 3. Lines starting # ignored
-https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/badgeos/
+# 
+# Default badge firmware please update manually
+# https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/badgeos/
 https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/badgepublic/
 https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/asteroids/
 https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/corona/
