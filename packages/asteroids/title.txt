@@ -1,7 +1,7 @@
 NAME: 		Asteroids
 TITLE: 		Asteroids game
 AUTHOR: 	Anton Sylantiev & VVS
-VERSION: 	1.1
-DATE:		08.02.2020
+VERSION: 	2.1
+DATE:		13.05.2020
 SOURCE: 	https://gitlab.com/badge-os/badge-os-cpp
 DESCRIPTION: 	BadgeOS based Astreoids game

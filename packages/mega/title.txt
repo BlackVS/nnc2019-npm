@@ -1,7 +1,0 @@
-NAME: 		Mega
-TITLE: 		All-the-stuff is here %)
-AUTHOR: 	VVS
-VERSION: 	2.02.a
-DATE:		11.02.2020
-SOURCE: 	https://gitlab.com/BlackVS/nnc-badge-mega
-DESCRIPTION: 	Includes latest stable updates

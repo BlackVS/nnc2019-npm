@@ -1,7 +1,7 @@
-NAME: 		Deauth detector
-TITLE: 		Deauth detector
+NAME: 		Radar
+TITLE: 		DEauth detector with radar
 AUTHOR: 	VVS
 VERSION: 	2.1
 DATE:		13.05.2020
 SOURCE: 	https://github.com/BlackVS/esp32-pmon
-DESCRIPTION: 	Radar/deauth detector
+DESCRIPTION: 	Shows strength of deauth 

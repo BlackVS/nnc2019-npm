@@ -1,0 +1,7 @@
+NAME: 		Packets monitor
+TITLE: 		Packets monitor
+AUTHOR: 	VVS
+VERSION: 	2.1
+DATE:		13.05.2020
+SOURCE: 	https://github.com/BlackVS/esp32-pmon
+DESCRIPTION: 	WiFi packets monitor with deauth detector

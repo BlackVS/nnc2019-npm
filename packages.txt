@@ -5,11 +5,10 @@
 # 3. Lines starting # ignored
 https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/badgeos/
 https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/badgepublic/
-https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/example1/
-https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/example2/
-https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/pmon1/
-https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/mega/
-https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/megadev/
-https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/megadet/
 https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/asteroids/
 https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/corona/
+https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/example1/
+https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/example2/
+https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/megamon/
+https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/megadet/
+https://raw.githubusercontent.com/BlackVS/nnc2019-npm/master/packages/megaradar/

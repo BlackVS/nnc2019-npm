@@ -1,7 +1,0 @@
-NAME: 		Mega (dev)
-TITLE: 		Latest build of Mega
-AUTHOR: 	VVS
-VERSION: 	4.0.a
-DATE:		12.03.2020
-SOURCE: 	https://github.com/BlackVS/esp32-pmon
-DESCRIPTION: 	BLE scan added (only in console)
